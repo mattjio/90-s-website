@@ -125,11 +125,20 @@ p {
     margin-bottom: 0px;
 }
 
-/* have dare image be on the bottom left corner and stick to the bottom left corner */
+
 #dare {
     position: fixed;
     bottom: 0;
     left: 0;
     margin-bottom: 0px;
     margin-left: 0px;
+}
+
+
+#mcgruff {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 0px;
+    margin-right: 0px;
 }
